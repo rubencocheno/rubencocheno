@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Ruben, the Pxosys Ltd founder, an Consultancy in Network, Security, Datacenter and Cloud technologies space.
+I'm Ruben, the founder of Pxosys Ltd, a small group of technology veterans providing Consultancy services in Networks, Security, Datacenter, AIOps and Cloud technologies space.
 
 [![rubencocheno's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubencocheno&show_icons=true)](https://github.com/rubencocheno)
 
 ## 📯 Where to find me 
 
-* Twitter - [@rubencocheno](https://twitter.com/rubencocheno) (don't check this much anymore)
-* [cocheno.com](https://cochenocom) - Personal website, who got COVID as well, but keen to get it moving again
+* Twitter - [@rubencocheno](https://twitter.com/rubencocheno)
+* [cocheno.com](https://cochenocom) - Personal website, which got COVID as well, but keen to get it moving again
 
 ## ⚡️ Core projects
 
