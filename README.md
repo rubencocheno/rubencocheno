@@ -22,7 +22,8 @@ I'm Ruben, the founder of Pxosys Ltd, a small group of technology veterans provi
 ## 📯 Where to find me 
 
 * Twitter - [@rubencocheno](https://twitter.com/rubencocheno)
-* [cocheno.com](https://cochenocom) - Personal website, which got COVID as well, but keen to get it moving again
+* [cocheno.com](https://cocheno.com) - Personal website, which got COVID as well, but keen to get it moving again
+* [pxosys.com](https://pxosys.com) - for any business enquiries
 
 ## ⚡️ Core projects
 
