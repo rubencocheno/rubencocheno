@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubencocheno&label=Profile%20views&color=0e75b6&style=flat" alt="rubencocheno" /> </p>
+
 <!--
 **rubencocheno/rubencocheno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -27,3 +27,4 @@ I'm Ruben, the founder of Pxosys Ltd, a small group of technology veterans provi
 ## ⚡️ Core projects
 
 * [meraki-exchangehub-detect-devices](https://github.com/) - working on a couple of integrations
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubencocheno&label=Profile%20views&color=0e75b6&style=flat" alt="rubencocheno" /> </p>
